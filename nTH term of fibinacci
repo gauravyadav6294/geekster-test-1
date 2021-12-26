@@ -1,0 +1,18 @@
+var a =prompt("enter a number");
+a=parseInt(a):
+var b =prompt("enter a number");
+b=parseInt(b);
+console.log(a);
+console.log(b);
+
+var count=2;
+
+while(count<n){
+var c =a+b;
+console.log(c);
+
+a=b;
+b=c;
+
+count=count+1;
+}
