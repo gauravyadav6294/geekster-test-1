@@ -1,0 +1,9 @@
+var n=prompt("enter the nth number");
+n=parseInt(n);
+var a=prompt("enter a first term");
+a=parseInt(a);
+var d=prompt("enter a common diff");
+d=parseInt(d);
+
+var nth=a+(n-1)*d;
+console.log(nth);
