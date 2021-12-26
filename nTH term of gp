@@ -1,0 +1,13 @@
+var n =prompt("enter a number");
+n=parseInt(n);
+
+var a=prompt("enter a first term");
+a=parseInt(a);
+
+var r=prompt("enter a diffrence");
+r=parseInt(r);
+
+
+var gp=(a*math.floor(math.pow(r,n-1));
+
+console.log(gp);
